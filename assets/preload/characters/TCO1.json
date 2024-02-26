@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				140,
+				-100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "WhatYouKnowAboutRollingDownInTheDeep"
+		},
+		{
+			"offsets": [
+				40,
+				-66
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "TCO Idle"
+		},
+		{
+			"offsets": [
+				40,
+				-66
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [],
+			"name": "TCO Idle"
+		},
+		{
+			"offsets": [
+				142,
+				-150
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "TCO Down"
+		},
+		{
+			"offsets": [
+				142,
+				-150
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN-loop",
+			"indices": [],
+			"name": "TCO Down"
+		},
+		{
+			"offsets": [
+				138,
+				-120
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [],
+			"name": "TCO Left"
+		},
+		{
+			"offsets": [
+				138,
+				-120
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "TCO Left"
+		},
+		{
+			"offsets": [
+				92,
+				-112
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "TCO Right"
+		},
+		{
+			"offsets": [
+				92,
+				-112
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [],
+			"name": "TCO Right"
+		},
+		{
+			"offsets": [
+				89,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "TCO Up"
+		},
+		{
+			"offsets": [
+				89,
+				-30
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [],
+			"name": "TCO Up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/TCO_Assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "tco",
+	"flip_x": false,
+	"healthbar_colors": [
+		235,
+		142,
+		0
+	],
+	"camera_position": [
+		-100,
+		170
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

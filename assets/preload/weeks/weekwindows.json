@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"Adobe",
+			"tco",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Victim",
+			"tco",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"End-Process",
+			"tdl",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "animstage",
+	"difficulties": "Easy, Normal, Hard, Insane",
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"storyName": "",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
